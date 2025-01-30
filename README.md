@@ -30,3 +30,7 @@ Welcome to my **GitHub Portfolio!** I'm a **second-year AIML student** at **Dhan
 📧 **Email:** mahithapotluri7@gmail.com  
 🖥 **GitHub:** [Mahithapotluri] 
 
+## 📊 **GitHub Stats**
+![Mahitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahithapotluri&show_icons=true&theme=tokyonight)
+
+
