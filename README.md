@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm P. Naga Sai Mahitha!  
+🚀 **AI/ML Enthusiast | Drone Tech Innovator | Systems Engineer Aspirant**  
 
-<!--
-**mahithapotluri/mahithapotluri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my **GitHub Portfolio!** I'm a **second-year AIML student** at **Dhanekula Institute of Engineering and Technology**, passionate about **AI, ML, and drone-based technologies**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 **Skills & Technologies**
+- **Programming:** Python, C  
+- **Libraries & Frameworks:** TensorFlow, OpenCV  
+- **Project Management:** Agile, Jira  
+- **Other:** Git, Linux, Docker  
+
+---
+
+## 🔥 **Projects**
+### 🚂 **AI-Driven Drone for Railway Yards**  
+🔹 **Description:** A drone system that inspects cargo containers and restricted areas in railway yards using **computer vision**.  
+🔹 **Technologies Used:** Python, OpenCV, AI-based anomaly detection  
+
+---
+
+## **education **
+🎓 **B.Tech in Artificial Intelligence & Machine Learning** 
+📍 *Dhanekula Institute of Engineering and Technology (2023–2027)* 
+
+---
+
+## 📫 **Contact Me**
+📧 **Email:** mahithapotluri7@gmail.com  
+🖥 **GitHub:** [Mahithapotluri] 
+
